@@ -24,8 +24,10 @@
 ##### 지도
 많은 사람들이 잘모르는만큼 지도를 잘보이도록 하고싶다 .
 
-![default](https://user-images.githubusercontent.com/31715452/30916371-35815182-a3d4-11e7-8dba-f3aeffe2ce11.JPG)
 ![mapsmania](https://user-images.githubusercontent.com/31715452/30919660-034d0a5e-a3dd-11e7-9698-0e108bd45ddc.gif)
+
+![default](https://user-images.githubusercontent.com/31715452/30916371-35815182-a3d4-11e7-8dba-f3aeffe2ce11.JPG)
+
 ![3](https://user-images.githubusercontent.com/31715452/30916867-69efb00c-a3d5-11e7-8385-0b07d5b08c2d.JPG)
 
  ![con050302_tit_img](https://user-images.githubusercontent.com/31715452/30915725-9cc65448-a3d2-11e7-998a-b73b20722e31.png)
