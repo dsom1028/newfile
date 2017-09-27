@@ -6,6 +6,7 @@
 ![5](https://user-images.githubusercontent.com/31715452/30917364-c9d838da-a3d6-11e7-8b93-7ee60ebffb02.JPG)
 ![6](https://user-images.githubusercontent.com/31715452/30917382-d437de5c-a3d6-11e7-83ef-88b65858ae6f.JPG)
 ![7](https://user-images.githubusercontent.com/31715452/30917397-ddb623e4-a3d6-11e7-8553-3159c373f2a9.JPG)
+![8](https://user-images.githubusercontent.com/31715452/30917809-cd490df4-a3d7-11e7-9456-b21c3ebdb8ee.JPG)
 
 ## http://menya-bibiri.net/
 
